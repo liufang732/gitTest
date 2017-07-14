@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 dfsdfsdf
 sdfsdfsd
 sdfsddfsdfsdkfsts11111111de11
+=======
+dfsdfsd
+sdfsddfsdfsdkfsts11111111kj11
+>>>>>>> dev
